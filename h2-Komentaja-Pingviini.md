@@ -122,7 +122,6 @@ salasanaa ja sen annettuani saan koneen tiedot.
 
 Järjestelmä:
 - System: Virtuaalikone (VirtualBox).
-- Bus: VirtualBoxin virtuaalinen emolevy.
 
 Muisti:
 - 128KiB BIOS: BIOSin koko.
@@ -132,33 +131,9 @@ Prosessori:
 - AMD Ryzen 5 6600H with Radeon Graphics: isäntäjärjestelmän suorittimen malli.
 
 Tallennus:
-- /dev/cdrom: Virtuaalinen CD-ROM-asema.
-- 82371AB/EB/MB PIIX4 IDE: IDE-ohjain tallennuslaitteille.
+- 64GT:n virtuaalinen kiintolevy.
 
-Näyttö:
-- SVGA II Adapter: VirtualBoxin emuloitu näytönohjain
-
-Verkkoyhteys
-- 82540EM Gigabit Ethernet Controller: emuloitu verkkosovitin
-
-Ääni:
-- 82801AA AC'97 Audio Controller: VirtualBoxin emuloitu ääniohjain.
-
-Syöttölaitteet:
-- VirtualBox mouse integration: Hiiren integrointi virtuaalikoneeseen
-- VirtualBox USB Tabler: virtuaalikoneen syöttölaite
-
-Tallennus:
-- SATA-tallenus:
-  - Device: /dev/sda
-    - Tämä on 64GT:n virtuaalinen kiintolevy
-  - Volume: /dev/sda1
-    - 51 GiB EXT4-tiedostojärjestelmä
-  - Volume /dev/sda2
-    - 8612 MiB swap virtuaalimuisti
-
-USB-väylä
-- EHCI Host Controller
+Muut näyttäisivät olevan virtuaalikoneen osioita.
 
 ## Lähteet:
 

@@ -216,6 +216,7 @@ Kaikkien tehtävien tekemiseen meni noin 2-3 tuntia raporttia samalla kirjoittae
 ## Lähteet:
 
 Apache. 2025. Name-based Virtual Host Support. https://httpd.apache.org/docs/2.4/vhosts/name-based.html#page-header  
+Tero Karvinen. 2025. Linux Palvelimet 2025 alkukevät. https://terokarvinen.com/linux-palvelimet/  
 Karvinen, Tero. 2018. Name Based Virtual Hosts on Apache - Multiple Websites to Single IP Address. https://terokarvinen.com/2018/04/10/name-based-virtual-hosts-on-apache-multiple-websites-to-single-ip-address/  
 Baeldung. 2024. What Is X11? https://www.baeldung.com/linux/x11  
 Sumo Logic. 2020. Understanding the Apache Access Log: View, Locate and Analyze. https://www.sumologic.com/blog/apache-access-log/  

@@ -2,6 +2,15 @@
 
 Tässä kotitehtävässä teen tiivistelmät annetuista artikkeleista ja asennan Linuxin virtuaalikoneeseen. Tehtävät tehdään kurssin opettajan antamien ohjeiden mukaan. (https://terokarvinen.com/linux-palvelimet/)
 
+## Rauta
+
+Lenovo 82SB  
+AMD Ryzen 5 6600H with Radeon Graphics (12CPU)  
+AMD RadeonT 660M  
+NVIDIA GeForce RTX 3050 Ti Laptop GPU  
+16 GB RAM  
+Windows 11 Home 64-bit  
+
 ## Hyvän raportin alkeet
 
 - Raportti pitää kirjoittaa niin että, toinen opiskelija pystyy toistamaan tehtävän samalla tavalla.

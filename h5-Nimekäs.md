@@ -1,5 +1,14 @@
 # h5 Nimekäs
 
+## Rauta
+
+Lenovo 82SB  
+AMD Ryzen 5 6600H with Radeon Graphics (12CPU)  
+AMD RadeonT 660M  
+NVIDIA GeForce RTX 3050 Ti Laptop GPU  
+16 GB RAM  
+Windows 11 Home 64-bit  
+
 ## Tehtävänanto
 
 Tehtävä tehdään opettajan antamien ohjeiden mukaisesti. https://terokarvinen.com/linux-palvelimet/
@@ -178,3 +187,4 @@ PhoenixNAP. 2024. Dig Command in Linux with Examples. https://phoenixnap.com/kb/
 AskUbuntu. 2019. How do I install dig? https://askubuntu.com/questions/25098/how-do-i-install-dig  
 VPN Unlimited. 2025. DNS TTL. https://www.vpnunlimited.com/fi/help/cybersecurity/dns-ttl  
 Hostinger. 2024. What is a domain name? A beginner's guide. https://www.hostinger.com/tutorials/what-is-a-domain-name  
+Tero Karvinen. 2025. Linux Palvelimet 2025 alkukevät. https://terokarvinen.com/linux-palvelimet/  

@@ -1,5 +1,14 @@
 # h2 Komentaja Pingviini
 
+## Rauta
+
+Lenovo 82SB  
+AMD Ryzen 5 6600H with Radeon Graphics (12CPU)  
+AMD RadeonT 660M  
+NVIDIA GeForce RTX 3050 Ti Laptop GPU  
+16 GB RAM  
+Windows 11 Home 64-bit  
+
 ## Tehtävänanto
 
 Tiivistä artikkeli ranskalaisin viivoin
@@ -138,6 +147,7 @@ Muut näyttäisivät olevan virtuaalikoneen osioita.
 ## Lähteet:
 
 Geeks for Geeks. 2024. grep command in Unix/Linux. https://www.geeksforgeeks.org/grep-command-in-unixlinux/  
+Tero Karvinen. 2025. Linuc Palvelimet 2025 alkukevät. https://terokarvinen.com/linux-palvelimet/  
 Tero Karvinen. 2020. Command Line Basics Revisited. https://terokarvinen.com/2020/command-line-basics-revisited/?fromSearch=command%20line%20basics%20revisited  
 Jack Wallen. 2024. 5 Linux terminal apps that are better than your default - and free to install. https://www.zdnet.com/article/5-linux-terminal-apps-that-are-better-than-your-default-and-free-to-install/  
 Joey Sneddon. 2023. 10 Best Command Line Apps for Ubuntu. https://www.omgubuntu.co.uk/2021/11/best-command-line-tools-ubuntu-linux

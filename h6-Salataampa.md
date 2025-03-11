@@ -159,3 +159,4 @@ Lange. 2024. Lego: Obtain a Certificate: Using an existing, running web server. 
 Apache Software Foundation. 2025. Apache HTTP Server Version 2.4 Official Documentation: SSL/TLS Strong Encryption: Hot-To: Basic Configuration Example. https://httpd.apache.org/docs/2.4/ssl/ssl_howto.html#configexample  
 AskUbuntu. 2017. How can I disable and enable SSL in Apache (without a command if possible). https://askubuntu.com/questions/709594/how-can-i-disable-and-enable-ssl-in-apache-without-a-command-if-possible  
 SSLLabs. 2025. SSL Server Test. https://www.ssllabs.com/ssltest/  
+Tero Karvinen. 2025. Linux Palvelimet 2025 alkukevät. https://terokarvinen.com/linux-palvelimet/  

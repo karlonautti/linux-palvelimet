@@ -27,7 +27,13 @@ Komennot olivat "ruby hello.rb", "java hello.java" ja "python3 hello.py". Kaikki
 ![h7-6](h7-6.png)  
 ![h7-7](h7-7.png)  
 ![h7-8](h7-8.png)  
- 
+
+## b) Lähdeviitteet
+
+Tarkista ja tarvittaessa lisää lähdeviitteet kaikkiin raportteihisi h1 alkaen. Tarkista, että olet viitannut lähteisiin: tehtäväsivuun, kurssiin, muiden opiskelijoiden raportteihin, man-sivuihin, kotisivuihin ja ylipäänsä kaikkiin käyttämiisi lähteisiin. Lähdeviite tulee olla jokaisessa raportissa tai sivussa, jossa lähdettä on käytetty. Kaikki tehtävät perustuvat tämän sivun tehtävänantoihin, joten ainakin tämä viite on syytä löytyä. (Tästä alakohdasta ei tarvitse kirjoittaa vaiheittaista raporttia)
+
+Tehty.
+
 ## c) Uusi komento
 
 Tein uuden komennon "omakomento". Olen aikasemmin tehnyt käyttäjälleni demo-hakemiston. Se sijaitsee /home/karris/demo/. Menen siihen komennolla "cd demo". Teen hakemistoon omakomento-tekstitiedoston komennolla "micro omakomento.sh".
@@ -65,6 +71,10 @@ poistan "hattu.example.com" ja "karri.example.com" sivut käytöstä komennolla 
 ![h7-14](h7-14.png)  
 ![h7-15](h7-15.png)  
 ![h7-16](h7-16.png)  
+
+## Asenna itsellesi tyhjä virtuaalikone arvioitavaa labraa varten
+
+Tehty.
 
 ## Lähteet:
 

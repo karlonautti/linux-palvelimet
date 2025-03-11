@@ -1,6 +1,6 @@
 # Ensimmäinen kotitehtävä - Oma Linux
 
-Tässä kotitehtävässä teen tiivistelmät annetuista artikkeleista ja asennan Linuxin virtuaalikoneeseen.
+Tässä kotitehtävässä teen tiivistelmät annetuista artikkeleista ja asennan Linuxin virtuaalikoneeseen. Tehtävät tehdään kurssin opettajan antamien ohjeiden mukaan. (https://terokarvinen.com/linux-palvelimet/)
 
 ## Hyvän raportin alkeet
 
@@ -86,5 +86,6 @@ Tämän jälkeen sain odottaa 21.59 asti että Login-ikkuna tuli esille. Sisää
 ## Lähteet:
 
 Free Software Foundation (FSF). 2024. What is Free Software? https://www.gnu.org/philosophy/free-sw.html  
-Tero Karvinen. Install Debian on Virtualbox - Updated 2024. https://terokarvinen.com/2021/install-debian-on-virtualbox/  
+Tero Karvinen. 2025. Linux palvelimet 2025 alkukevät. https://terokarvinen.com/linux-palvelimet/  
+Tero Karvinen. 2024. Install Debian on Virtualbox - Updated 2024. https://terokarvinen.com/2021/install-debian-on-virtualbox/  
 Tero Karvinen. 2006. Raportin kirjoittaminen. https://terokarvinen.com/2006/raportin-kirjoittaminen-4/
